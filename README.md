@@ -1,6 +1,6 @@
 # Este es un proyecto de prueba
 
-## Curso de Giy GitHub
+## Curso de Git y GitHub
 
 ## Configuración
 
